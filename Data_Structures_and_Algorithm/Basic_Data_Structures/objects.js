@@ -7,3 +7,6 @@ const person = {
 
 console.log(person);
 console.log(person.name);
+
+
+// writing line to check for git push
