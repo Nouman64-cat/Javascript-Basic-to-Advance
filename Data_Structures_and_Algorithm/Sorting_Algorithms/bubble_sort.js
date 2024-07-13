@@ -20,3 +20,4 @@ function bubbleSort(array){
 
 let array = [64, 34, 25, 12, 22, 11, 90];
 console.log("Sorted array:", bubbleSort(array));
+//time complexity : O(n^2)
