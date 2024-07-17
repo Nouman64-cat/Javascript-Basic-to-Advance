@@ -6,3 +6,5 @@
 let numbers = [1, 2, 3, 4, 5];
 let allEven = numbers.every((number) => number % 2 === 0);
 console.log(allEven); // Output: false
+
+// statement added to check git
